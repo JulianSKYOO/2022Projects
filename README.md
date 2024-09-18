@@ -1,1 +1,1 @@
-# If you are a recruiter, contact me for my private repo.
+# If you are a recruiter, please contact me for my private repo.
