@@ -1,1 +1,1 @@
-**Project: Text summarization with transformer**
+**Project: Sentiment Analysis with LSTM and transformer**
